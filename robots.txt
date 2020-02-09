@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ainoeghied.xn--vnajinihevljih-xzb.si/sitemap.xml
